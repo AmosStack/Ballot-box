@@ -27,4 +27,3 @@ Ballot-box is a Django-based electronic voting platform for organizing elections
 ```bash
 python manage.py runserver
 ```
-

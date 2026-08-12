@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'ballotbox_db',
         'USER': 'postgres',
-        'PASSWORD': 'Qwerty@123',
+        'PASSWORD': 'postgres',
         'HOST': 'localhost',   # or  host URL when deployed
         'PORT': '5432',
     }

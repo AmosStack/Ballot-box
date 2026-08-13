@@ -17,7 +17,7 @@ Ballot-box is a Django-based electronic voting platform for organizing elections
 3. Apply database migrations:
    ```bash
    python manage.py migrate
-   ```
+   `ed frontend``
 4. Create a superuser if needed:
    ```bash
    python manage.py createsuperuser
